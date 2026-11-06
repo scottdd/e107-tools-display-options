@@ -23,6 +23,9 @@ Provides visitors with an accessible, persistent control panel — available as 
 
 ## Screenshots
 
+### Visitor Display & Reader Options Panel
+![Close-up of the visitor-facing Display & Reader Options panel and its settings](docs/screenshots/e107-options-visitor-display-panel.png)
+
 ### Frontend Navbar Popover & Sidebar Widget (`moderndark` / Bootstrap 5)
 ![Frontend Popover and Sidebar](docs/screenshots/e107-options-moderndark-popover-and-sidebar.png)
 
